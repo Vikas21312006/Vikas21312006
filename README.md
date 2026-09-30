@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vikas Chaurasiya</h1>
-<h3 align="center">Subtitle for my github profile i leanr java python numpy pandas matplotlib seaboarn probability staticstics c lqanguge machine learning and currently doing dsa and aslo do deep leaaaaaarning and now doinglm amd rag</h3>
+<h3 align="center">3rd-Year B.Tech CSE (Data Science) | ML, Deep Learning & LLMs | Java, Python, C </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas21312006&label=Profile%20views&color=0e75b6&style=flat" alt="vikas21312006" /> </p>
 
